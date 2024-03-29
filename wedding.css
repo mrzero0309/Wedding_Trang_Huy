@@ -9,13 +9,13 @@ body{
     align-items: center;
     justify-content: center;
 }
+
 .contaner{
-   
 }
 .nameWedding{
     margin-top: -90px;
     height: 272px;
-    margin-left: -139px;
+    margin-left: -100px;
     width: 772px;
 }
 .mySlides {
@@ -34,4 +34,69 @@ body{
 @keyframes fade {
     from {opacity: .4}
     to {opacity: 1}
+}
+.date_wedding{
+    margin-top: -50px;
+    height: 272px;
+    margin-left: -60px;
+    width: 630px;
+    
+}
+.date{
+    font-family:monospace;
+    font-size: 15px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: -70px;
+}
+
+.countdown_wedding{
+    width: 400px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 55px;
+    background-color: #90110A;
+    font-size: 30px;
+    border-radius: 15px;
+    color: white;
+    margin-top: 24px;
+}
+.boy{
+    margin-left: 100px;
+
+}
+.girl{
+    margin-left: 100px;
+
+}
+.nha_trai{
+    margin-top: -70px;
+}
+.nha_gai{
+    margin-top: -70px;
+}
+.text_nha_trai{
+    margin-top: -80px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.text_nha_gai{
+    margin-top: -80px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.boy_girl{
+    background-color:#D9D9D9 ;
+    width: auto;
+    padding-right: 0;
+    padding-left: 0;
 }
